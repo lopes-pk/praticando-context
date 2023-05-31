@@ -1,1 +1,1 @@
-Para rodar o projeto em sua maquina fazer o CLONE e caso ja tenha o node instalado basta dar `npm install`
+Para rodar o app em sua maquina faça o `git clone` e caso ja tenha o node instalado basta dar `npm install` no terminal do projeto
